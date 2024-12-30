@@ -4,9 +4,9 @@ Training and placement management system is a company based project that provide
 
 This project will assist you a lot in developing your designing creativity. You can do the following things in this project:-
 
-Adding company
-Adding Student
-Adding Training Company
-Syncing your updates online
-Scheduling training
+Adding company,
+Adding Student,
+Adding Training Company,
+Syncing your updates online,
+Scheduling training,
 backing up database
